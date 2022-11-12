@@ -9,8 +9,8 @@ I'm learning to code in a "Full Stack Development" program. Began with HTML, CSS
 # 💫 About Me:
 *   🌍  I'm based in Mendoza, Argentina
 *   ✉️  You can contact me at [m.christello@hotmail.com](mailto:m.christello@hotmail.com)
-*   🧠  I'm learning ReactJS
-*   👯 I’m looking to collaborate on some web dev proyect involving HTML, CSS, and JS.
+*   🧠  I'm learning Backend!
+*   👯 I’m looking to collaborate on some web dev proyect involving HTML, CSS, and JS. Could be with ReactJS also.
 *   ⚡ Fun fact: Never thougth I'll be following this "coding" path
 
 
