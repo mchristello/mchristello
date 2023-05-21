@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mchristello&label=Profile%20views&color=0e75b6&style=flat" alt="mchristello" /> </p>
 
-- 🌱 I’m currently learning **Backend, with JS.**
-
-- 👯 I’m looking to collaborate on **some web dev proyect involving HTML, CSS, and JS. Could be with ReactJS also.**
+- 🌱 I’m about to begin learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mchristello](https://github.com/mchristello)
 
