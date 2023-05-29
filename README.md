@@ -5,7 +5,7 @@
 
 - 🌱 I’m about to begin learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mchristello](https://github.com/mchristello)
+- 👨‍💻 All of my projects are available in [my portfolio](https://mc-portfolio-mchristello.vercel.app/)
 
 - 📫 How to reach me **m.christello@hotmail.com**
 
