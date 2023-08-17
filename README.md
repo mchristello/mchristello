@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://matiaschristello-portfolio.vercel.app/](https://matiaschristello-portfolio.vercel.app/)
 
-- 📫 How to reach me **m.christello@gmail.com**
+- 📫 How to reach me **m.christello@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/matias-christello/](https://www.linkedin.com/in/matias-christello/)
 
